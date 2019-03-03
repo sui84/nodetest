@@ -1,0 +1,24 @@
+2019-03-03 14:11:05 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-03-03 14:11:05 - Started 2484
+2019-03-03 14:13:47 - Stopping website.exe
+2019-03-03 14:13:47 - ProcessKill 2484
+2019-03-03 14:13:47 - Found child process: 4224 Name: node.exe
+2019-03-03 14:13:47 - Stopping process 4224
+2019-03-03 14:13:47 - Send SIGINT 4224
+2019-03-03 14:13:47 - SIGINT to 4224 failed - Killing as fallback
+2019-03-03 14:13:47 - Stopping process 2484
+2019-03-03 14:13:47 - Send SIGINT 2484
+2019-03-03 14:13:47 - SIGINT to2484 successful
+2019-03-03 14:13:47 - Finished website.exe
+2019-03-03 14:13:58 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-03-03 14:13:58 - Started 9144
+2019-03-03 14:14:08 - Stopping website.exe
+2019-03-03 14:14:08 - ProcessKill 9144
+2019-03-03 14:14:08 - Found child process: 2436 Name: node.exe
+2019-03-03 14:14:08 - Stopping process 2436
+2019-03-03 14:14:08 - Send SIGINT 2436
+2019-03-03 14:14:08 - SIGINT to 2436 failed - Killing as fallback
+2019-03-03 14:14:08 - Stopping process 9144
+2019-03-03 14:14:08 - Send SIGINT 9144
+2019-03-03 14:14:08 - SIGINT to9144 successful
+2019-03-03 14:14:08 - Finished website.exe
