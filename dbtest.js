@@ -1,24 +1,32 @@
-const config = {
+ var sql = require('mssql'); 
+
+var config = {
     user: 'sa',
     password: 'P@ssw0rd',
-    server: 'localhost\\SQLEXPRESS', 
-    database: 'Log',
+    server: 'SC-201609232107\\SQLEXPRESS', // You can use 'localhost\\instance' to connect to named instance
+    database: 'log',
     options: {
-        encrypt: true //使用windows azure，需要设置次配置。
+       encrypt: true // Use this if you're on Windows Azure
+    },
+    pool: {
+        max: 10,
+        min: 0,
+        idleTimeoutMillis: 30000
     }
 }
 
-const sql = require('mssql') //声明插件
-sql.connect(config).then(() => {
-    return sql.query`select * from out where id = ${value}`
-}).then(result => {
-    //请求成功
-    console.log(result)
-}).catch(err => {
-    //err 处理
-    console.log(err)
-})
-sql.on('error', err => {
-    //error 处理
-    console.log(err)
-})
+
+
+
+sql.connect("mssql://sa:P@ssw0rd@SC-201609232107\\SQLEXPRESS:1433/log").then(function() {
+//sql.connect("mssql://sa:123@localhost:1433/test").then(function() {
+    // Query
+    new sql.Request().query('select * from sys_user').then(function(recordset) {
+        console.log(recordset);
+    }).catch(function(err) {
+       console.log(err);
+    });
+    // Stored Procedure
+}).catch(function(err) {
+    console.log(err);
+});
