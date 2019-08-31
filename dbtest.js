@@ -2,7 +2,7 @@
 
 var config = {
     user: 'sa',
-    password: 'P@ssw0rd',
+    password: '',
     server: 'SC-201609232107\\SQLEXPRESS', // You can use 'localhost\\instance' to connect to named instance
     database: 'log',
     options: {
@@ -18,7 +18,7 @@ var config = {
 
 
 
-sql.connect("mssql://sa:P@ssw0rd@SC-201609232107\\SQLEXPRESS:1433/log").then(function() {
+sql.connect("mssql://sa:test@localhost\\SQLEXPRESS:1433/log").then(function() {
 //sql.connect("mssql://sa:123@localhost:1433/test").then(function() {
     // Query
     new sql.Request().query('select * from sys_user').then(function(recordset) {

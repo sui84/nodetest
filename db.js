@@ -3,7 +3,7 @@ var mssql = require('mssql');
 var db = {};
 var config = {
   user: 'sa',
-  password: 'P@ssw0rd',
+  password: '',
   server: 'SC-201609232107\SQLEXPRESS', 
 database:'Log',
 port:1433,

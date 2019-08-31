@@ -42,3 +42,161 @@
 2019-03-21 19:10:46 - Started 2300
 2019-03-21 20:41:49 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
 2019-03-21 20:41:49 - Started 2824
+2019-03-21 22:44:33 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-03-21 22:44:33 - Started 2800
+2019-03-22 19:21:04 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-03-22 19:21:04 - Started 5200
+2019-03-27 19:30:15 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-03-27 19:30:15 - Started 3004
+2019-03-29 20:03:04 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-03-29 20:03:05 - Started 5180
+2019-03-30 14:01:55 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-03-30 14:01:55 - Started 2200
+2019-04-01 22:07:45 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-04-01 22:07:46 - Started 2912
+2019-04-02 20:18:21 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-04-02 20:18:21 - Started 5180
+2019-04-05 15:27:20 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-04-05 15:27:21 - Started 5164
+2019-04-08 20:22:23 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-04-08 20:22:23 - Started 2876
+2019-04-10 19:54:17 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-04-10 19:54:17 - Started 5472
+2019-04-13 13:14:27 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-04-13 13:14:27 - Started 5304
+2019-04-15 19:48:02 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-04-15 19:48:02 - Started 732
+2019-04-17 20:08:41 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-04-17 20:08:41 - Started 5520
+2019-04-22 20:20:28 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-04-22 20:20:28 - Started 2908
+2019-04-23 19:09:58 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-04-23 19:09:59 - Started 2864
+2019-04-25 22:27:58 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-04-25 22:27:58 - Started 2976
+2019-04-30 20:22:12 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-04-30 20:22:12 - Started 3824
+2019-05-01 12:43:03 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-01 12:43:03 - Started 5776
+2019-05-12 22:59:13 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-12 22:59:13 - Started 3008
+2019-05-13 19:38:19 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-13 19:38:20 - Started 3720
+2019-05-13 20:29:15 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-13 20:29:15 - Started 2224
+2019-05-25 17:47:57 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-25 17:47:57 - Started 5948
+2019-05-29 23:54:59 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-05-29 23:54:59 - Started 2816
+2019-06-01 13:03:50 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-06-01 13:03:50 - Started 4472
+2019-06-02 06:51:37 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-06-02 06:51:37 - Started 3536
+2019-06-04 09:16:14 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-06-04 09:16:14 - Started 3008
+2019-06-14 19:48:49 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-06-14 19:48:49 - Started 2996
+2019-06-18 20:26:15 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-06-18 20:26:15 - Started 6296
+2019-06-19 18:40:27 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-06-19 18:40:27 - Started 3000
+2019-06-23 20:35:04 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-06-23 20:35:04 - Started 2616
+2019-07-02 18:45:16 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-02 18:45:16 - Started 3020
+2019-07-03 18:57:27 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-03 18:57:27 - Started 4032
+2019-07-04 18:46:21 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-04 18:46:21 - Started 3888
+2019-07-05 19:49:11 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-05 19:49:11 - Started 2436
+2019-07-06 13:31:45 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-06 13:31:45 - Started 4128
+2019-07-07 00:50:53 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-07 00:50:53 - Started 2680
+2019-07-07 12:46:21 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-07 12:46:21 - Started 2988
+2019-07-07 19:20:22 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-07 19:20:22 - Started 3744
+2019-07-07 22:10:28 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-07 22:10:28 - Started 3800
+2019-07-08 19:10:54 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-08 19:10:54 - Started 4740
+2019-07-09 07:40:32 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-09 07:40:32 - Started 2900
+2019-07-09 19:48:01 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-09 19:48:01 - Started 2948
+2019-07-09 22:56:42 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-09 22:56:42 - Started 4120
+2019-07-14 17:51:20 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-14 17:51:20 - Started 2964
+2019-07-14 17:55:21 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-14 17:55:21 - Started 4068
+2019-07-15 14:17:04 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-15 14:17:04 - Started 4264
+2019-07-15 22:36:31 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-15 22:36:31 - Started 4484
+2019-07-16 11:11:30 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-16 11:11:30 - Started 4464
+2019-07-20 19:42:58 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-20 19:42:58 - Started 4024
+2019-07-21 11:38:54 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-21 11:38:54 - Started 4368
+2019-07-22 13:35:20 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-22 13:35:20 - Started 2968
+2019-07-23 19:20:57 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-23 19:20:57 - Started 3004
+2019-07-24 01:40:43 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-24 01:40:43 - Started 3212
+2019-07-25 23:10:35 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-25 23:10:35 - Started 2116
+2019-07-26 09:49:55 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-26 09:49:55 - Started 4252
+2019-07-27 07:52:00 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-27 07:52:00 - Started 4520
+2019-07-27 23:38:36 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-27 23:38:36 - Started 3124
+2019-07-28 10:21:49 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-28 10:21:49 - Started 2992
+2019-07-28 12:47:56 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-28 12:47:56 - Started 2976
+2019-07-28 14:59:52 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-28 14:59:52 - Started 4004
+2019-07-28 16:20:55 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-28 16:20:55 - Started 3980
+2019-07-30 21:32:08 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-30 21:32:08 - Started 2996
+2019-08-01 11:00:16 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-08-01 11:00:16 - Started 3064
+2019-08-02 20:57:35 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-08-02 20:57:35 - Started 3044
+2019-08-04 01:05:24 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-08-04 01:05:24 - Started 2968
+2019-08-09 19:36:43 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-08-09 19:36:43 - Started 3304
+2019-08-17 00:41:21 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-08-17 00:41:21 - Started 3060
+2019-08-17 11:43:45 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-08-17 11:43:45 - Started 4152
+2019-08-18 12:18:39 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-08-18 12:18:39 - Started 2148
+2019-08-19 19:24:28 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-08-19 19:24:28 - Started 2980
+2019-08-20 19:09:48 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-08-20 19:09:48 - Started 2956
+2019-08-22 19:30:30 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-08-22 19:30:30 - Started 220
+2019-08-24 08:41:09 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-08-24 08:41:09 - Started 2976
+2019-08-25 10:43:29 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-08-25 10:43:29 - Started 3020
+2019-08-26 11:50:58 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-08-26 11:50:58 - Started 2992
+2019-08-27 18:43:39 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-08-27 18:43:39 - Started 2992
+2019-08-28 20:51:18 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-08-28 20:51:18 - Started 220
+2019-08-30 19:30:51 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-08-30 19:30:51 - Started 4088
+2019-08-31 08:47:59 - Starting E:\01_SOFT\node-v10.15.2-win-x64\node.exe  --harmony E:\MyProjects\Github\byme\nodetest\node_modules\node-windows\lib\wrapper.js --file E:\MyProjects\Github\byme\nodetest\server.js --log "WebSite wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-08-31 08:47:59 - Started 2924
